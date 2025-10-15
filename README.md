@@ -1,3 +1,5 @@
 Run the app
 
-You can run the app on Visual Studio 2022 using start project button or by running command: dotnet run. Both options will display a swagger page with the docs of the web api. 
+You can run the app on Visual Studio 2022 using start project button or by running command: dotnet run. Both options will display a swagger page with the docs of the web api.
+
+This project uses a SQLServer connection. You have to change TodoBackApp\appsettings.json in order to properly work with the solutions. The provided credentials are just an example.
